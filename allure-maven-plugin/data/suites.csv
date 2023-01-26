@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Wed Jan 25 23:21:44 BRT 2023","Wed Jan 25 23:21:49 BRT 2023","4627","","BookingTests","","BookingTests","CreateBooking_WithValidData_returnOk","CreateBooking_WithValidData_returnOk()",""
+"passed","Wed Jan 25 23:21:23 BRT 2023","Wed Jan 25 23:21:42 BRT 2023","19416","","BookingTests","","BookingTests","getAllBookingsByUserFirstName_BookingExists_returnOk","getAllBookingsByUserFirstName_BookingExists_returnOk()",""
+"passed","Wed Jan 25 23:21:43 BRT 2023","Wed Jan 25 23:21:44 BRT 2023","1030","","BookingTests","","BookingTests","getAllBookingsById_returnOk","getAllBookingsById_returnOk()",""
